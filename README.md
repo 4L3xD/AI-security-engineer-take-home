@@ -23,3 +23,5 @@ ___
 [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 
 [Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications](https://arxiv.org/abs/2401.07612)
+
+[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/html/2401.06373v2)
