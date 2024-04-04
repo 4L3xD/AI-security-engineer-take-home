@@ -26,4 +26,7 @@ ___
 
 [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/html/2401.06373v2)
 
+
 [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
+
+[Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems](https://arxiv.org/abs/2311.11796)
