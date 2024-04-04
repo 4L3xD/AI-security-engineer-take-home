@@ -30,6 +30,9 @@ ___
 
 [Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles](https://arxiv.org/abs/2311.14876)
 
+[A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models](https://arxiv.org/abs/2312.10982)
+
+
 
 
 [Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers’ Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/html/2312.06227v1)
