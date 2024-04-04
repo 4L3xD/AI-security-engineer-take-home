@@ -26,6 +26,8 @@ ___
 
 [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/html/2401.06373v2)
 
+[Assessing Prompt Injection Risks in 200+ Custom GPTs](https://arxiv.org/abs/2311.11538)
+
 
 [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
 
