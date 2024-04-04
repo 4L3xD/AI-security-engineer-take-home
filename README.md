@@ -13,4 +13,9 @@ ___
 
 ## Refs
 
+**Workspace**
 [Poetry Docs](https://python-poetry.org/docs/basic-usage/)
+
+**Papers**
+
+[ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/html/2402.11753v2)
