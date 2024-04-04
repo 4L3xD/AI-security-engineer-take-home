@@ -32,6 +32,9 @@ ___
 
 [A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models](https://arxiv.org/abs/2312.10982)
 
+[Coordinated Disclosure for AI: Beyond Security Vulnerabilities](https://arxiv.org/abs/2402.07039)
+
+
 
 
 
