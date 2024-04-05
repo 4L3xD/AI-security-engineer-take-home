@@ -34,7 +34,15 @@ ___
 
 [Coordinated Disclosure for AI: Beyond Security Vulnerabilities](https://arxiv.org/abs/2402.07039)
 
+[Review of Generative AI Methods in Cybersecurity](https://arxiv.org/html/2403.08701v2)
 
+[LLM BugSWAT 2023](https://www.landh.tech/blog/20240304-google-hack-50000/)
+
+[Hacking Google Bard - From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
+
+[Roses are red, grapes make fine wine. I stole your password, now it's mine](https://hiddenlayer.com/research/new-google-gemini-content-manipulation-vulns-found/)
+
+[jailbreak-classification](https://huggingface.co/datasets/jackhhao/jailbreak-classification?row=95)
 
 
 
