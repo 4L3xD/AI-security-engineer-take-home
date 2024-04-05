@@ -16,6 +16,18 @@ ___
 **Workspace**
 [Poetry Docs](https://python-poetry.org/docs/basic-usage/)
 
+
+__
+
+[Mitre Atlas](https://atlas.mitre.org/matrices/ATLAS)
+
+[LLM AI Cybersecurity & Governance Checklist](https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-governance-doc/LLM_AI_Security_and_Governance_Checklist-v1.pdf)
+
+[Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+
+___
+
+
 **Papers**
 
 [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/html/2402.11753v2)
@@ -46,6 +58,11 @@ ___
 
 [Real World LLM Exploits](https://www.lakera.ai/ai-security-guides/real-world-llm-exploits)
 
+[Compromising LLMs using Indirect Prompt Injection](https://github.com/greshake/llm-security)
+
+[ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications](https://sites.google.com/view/compromptmized)
+
+___
 
 
 [Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers’ Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/html/2312.06227v1)
@@ -53,3 +70,17 @@ ___
 [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
 
 [Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems](https://arxiv.org/abs/2311.11796)
+
+___
+
+[AI Village](https://aivillage.org/blog/)
+
+[AI Incident Database](https://incidentdatabase.ai/)
+
+[OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+
+[Google's AI Red Team: the ethical hackers making AI safer](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/)
+
+[Microsoft AI Red Team](https://learn.microsoft.com/en-us/security/ai-red-team/)
+
+___
