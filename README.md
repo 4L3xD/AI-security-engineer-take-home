@@ -25,6 +25,10 @@ __
 
 [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 
+[AI Incident Database](https://incidentdatabase.ai/)
+
+[OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+
 ___
 
 
@@ -74,10 +78,6 @@ ___
 ___
 
 [AI Village](https://aivillage.org/blog/)
-
-[AI Incident Database](https://incidentdatabase.ai/)
-
-[OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
 
 [Google's AI Red Team: the ethical hackers making AI safer](https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/)
 
