@@ -44,6 +44,8 @@ ___
 
 [jailbreak-classification](https://huggingface.co/datasets/jackhhao/jailbreak-classification?row=95)
 
+[Real World LLM Exploits](https://www.lakera.ai/ai-security-guides/real-world-llm-exploits)
+
 
 
 [Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers’ Coding Practices with Insecure Suggestions from Poisoned AI Models](https://arxiv.org/html/2312.06227v1)
